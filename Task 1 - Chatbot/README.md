@@ -105,11 +105,9 @@ http://127.0.0.1:5000
 
 **Name:** S Dhanyatha
 
-**Internship:** CodSoft Artificial Intelligence Internship
-
 GitHub: https://github.com/DhanyathaSuresh
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: https://www.linkedin.com/in/dhanyatha-suresh-770ba6325?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
