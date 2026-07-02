@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Dino AI | Premium Chatbot</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+</head>
+
+<body>
+
+<div class="background-glow"></div>
+
+<div class="chat-container">
+
+    <!-- ================= Header ================= -->
+
+    <header class="chat-header">
+
+        <div class="header-left">
+
+            <div class="bot-avatar">
+
+                <img src="{{ url_for('static', filename='chatbot.png') }}"
+                    alt="Dino AI">
+
+            </div>
+
+            <div class="bot-info">
+
+                <h2>Dino AI</h2>
+
+                <p>
+
+                    <span class="online-dot"></span>
+
+                    Online • Ready to Help
+
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="header-right">
+
+            <button id="clear-btn" title="Clear Chat">
+
+                <i class="fa-solid fa-trash"></i>
+
+            </button>
+
+            <button id="theme-toggle" title="Dark / Light">
+
+                <i class="fa-solid fa-moon"></i>
+
+            </button>
+
+        </div>
+
+    </header>
+
+    <!-- ================= Chat Area ================= -->
+
+    <main id="chat-box">
+
+        <div class="bot-message">
+
+            <div class="message-avatar">
+
+                🤖
+
+            </div>
+
+            <div class="message-content">
+
+                <h4>Dino AI</h4>
+
+                <p>
+
+                    👋 Hello!
+
+                    <br><br>
+
+                    Welcome to <b>Dino AI Premium</b>.
+
+                    <br><br>
+
+                    I can help you with:
+
+                    <br><br>
+
+                    💻 Python
+
+                    <br>
+
+                    🌐 HTML & CSS
+
+                    <br>
+
+                    ⚡ JavaScript
+
+                    <br>
+
+                    🚀 Flask
+
+                    <br>
+
+                    🤖 Artificial Intelligence
+
+                    <br>
+
+                    🧠 Machine Learning
+
+                    <br>
+
+                    📅 Date & Time
+
+                    <br>
+
+                    😊 General Questions
+
+                    <br>
+
+                    💡 Motivation
+
+                    <br><br>
+
+                    Type your message below to start chatting!
+
+                </p>
+
+                <span class="time">
+
+                    Just Now
+
+                </span>
+
+            </div>
+
+        </div>
+
+    </main>
+
+
+    <!-- ===========================
+         Typing Indicator
+    ============================ -->
+
+    <div id="typing" class="typing" style="display:none;">
+
+        <div class="typing-avatar">
+            🤖
+        </div>
+
+        <div class="typing-bubble">
+
+            <span></span>
+            <span></span>
+            <span></span>
+
+            <small>Dino AI is typing...</small>
+
+        </div>
+
+    </div>
+
+    <!-- ===========================
+         Chat Input Area
+    ============================ -->
+
+    <div class="chat-input">
+
+        <button id="emoji-btn" title="Emoji">
+
+            😊
+
+        </button>
+
+        <input
+            type="text"
+            id="user-input"
+            placeholder="Ask Dino AI anything..."
+            autocomplete="off"
+        >
+
+        <button id="send-btn" title="Send">
+
+            <i class="fa-solid fa-paper-plane"></i>
+
+        </button>
+
+    </div>
+
+    <!-- ===========================
+         Footer
+    ============================ -->
+
+    <footer class="chat-footer">
+
+        <span>
+
+            Dino AI Premium
+
+        </span>
+
+        <span>
+
+            Built with ❤️ using Flask
+
+        </span>
+
+    </footer>
+
+</div>
+
+<!-- Emoji Picker Library -->
+
+<script src="https://cdn.jsdelivr.net/npm/@joeattardi/emoji-button/dist/index.min.js"></script>
+
+<!-- JavaScript -->
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+
+</html>
