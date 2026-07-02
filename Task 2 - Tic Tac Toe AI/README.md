@@ -94,7 +94,8 @@ AI is thinking...
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/DhanyathaSuresh/CODSOFT.git
+git clone
+https://github.com/DhanyathaSuresh/CODSOFT
 ```
 
 ### 2. Open the Project Folder
