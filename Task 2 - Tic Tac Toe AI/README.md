@@ -159,8 +159,8 @@ Not added.
 ## 👩‍💻 Author
 
 **Name:** S Dhanyatha  
-**GitHub:** [DhanyathaSuresh](https://github.com/DhanyathaSuresh)  
-**LinkedIn:** Add your LinkedIn profile link here
+**GitHub:** https://github.com/DhanyathaSuresh 
+**LinkedIn:** https://www.linkedin.com/in/dhanyatha-suresh-770ba6325?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
