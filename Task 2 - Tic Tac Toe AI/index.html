@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tic Tac Toe AI</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app">
+    <section class="hero">
+      <p class="tag">CodSoft AI Internship - Task 2</p>
+      <h1>Tic Tac Toe AI</h1>
+      <p class="intro">
+        Play against an unbeatable AI powered by the Minimax algorithm with Alpha-Beta Pruning.
+      </p>
+    </section>
+
+    <section class="game-area">
+      <div class="score-panel">
+        <div class="score-box">
+          <span class="score-label">You</span>
+          <strong id="human-score">0</strong>
+        </div>
+        <div class="score-box">
+          <span class="score-label">Draw</span>
+          <strong id="draw-score">0</strong>
+        </div>
+        <div class="score-box">
+          <span class="score-label">AI</span>
+          <strong id="ai-score">0</strong>
+        </div>
+      </div>
+
+      <div class="status-card">
+        <h2 id="status-title">Your Turn</h2>
+        <p id="status-text">You are X. Choose any empty square.</p>
+      </div>
+
+      <div class="board" aria-label="Tic Tac Toe board">
+        <button class="cell" data-index="0" aria-label="Cell 1"></button>
+        <button class="cell" data-index="1" aria-label="Cell 2"></button>
+        <button class="cell" data-index="2" aria-label="Cell 3"></button>
+        <button class="cell" data-index="3" aria-label="Cell 4"></button>
+        <button class="cell" data-index="4" aria-label="Cell 5"></button>
+        <button class="cell" data-index="5" aria-label="Cell 6"></button>
+        <button class="cell" data-index="6" aria-label="Cell 7"></button>
+        <button class="cell" data-index="7" aria-label="Cell 8"></button>
+        <button class="cell" data-index="8" aria-label="Cell 9"></button>
+      </div>
+
+      <div class="actions">
+        <button id="new-game" class="primary-button">New Game</button>
+        <button id="ai-start" class="secondary-button">Let AI Start</button>
+      </div>
+    </section>
+
+    <section class="info">
+      <h2>Algorithm Used</h2>
+      <p>
+        The AI checks every possible future move using Minimax. Alpha-Beta Pruning skips
+        unnecessary branches, making the AI faster while still choosing the optimal move.
+      </p>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
