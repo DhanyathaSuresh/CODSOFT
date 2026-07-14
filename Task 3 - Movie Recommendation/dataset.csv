@@ -1,0 +1,200 @@
+name,genre
+Avengers,Action
+Avengers: Endgame,Action
+Avengers: Infinity War,Action
+Iron Man,Action
+Iron Man 2,Action
+Iron Man 3,Action
+Captain America: The First Avenger,Action
+Captain America: Civil War,Action
+Captain America: Winter Soldier,Action
+Thor,Action
+Thor: Ragnarok,Action
+Thor: Love and Thunder,Action
+Black Panther,Action
+Black Panther: Wakanda Forever,Action
+Doctor Strange,Action
+Doctor Strange in the Multiverse of Madness,Action
+Spider-Man,Action
+Spider-Man 2,Action
+Spider-Man 3,Action
+Spider-Man: Homecoming,Action
+Spider-Man: Far From Home,Action
+Spider-Man: No Way Home,Action
+The Dark Knight,Action
+Batman Begins,Action
+The Batman,Action
+Justice League,Action
+Man of Steel,Action
+Aquaman,Action
+Wonder Woman,Action
+John Wick,Action
+John Wick Chapter 2,Action
+John Wick Chapter 3,Action
+John Wick Chapter 4,Action
+Mission Impossible,Action
+Mission Impossible Fallout,Action
+Top Gun Maverick,Action
+Mad Max Fury Road,Action
+The Matrix,Action
+The Matrix Reloaded,Action
+Gladiator,Action
+Die Hard,Action
+Casino Royale,Action
+Skyfall,Action
+No Time To Die,Action
+Extraction,Action
+Fast and Furious,Action
+Fast Five,Action
+Furious 7,Action
+The Equalizer,Action
+Taken,Action
+
+Titanic,Romance
+The Notebook,Romance
+La La Land,Romance
+A Walk to Remember,Romance
+The Fault in Our Stars,Romance
+Me Before You,Romance
+Pride and Prejudice,Romance
+Five Feet Apart,Romance
+Dear John,Romance
+Love Actually,Romance
+Pretty Woman,Romance
+The Vow,Romance
+Your Name,Romance
+After,Romance
+Twilight,Romance
+The Lucky One,Romance
+Safe Haven,Romance
+The Best of Me,Romance
+Letters to Juliet,Romance
+Endless Love,Romance
+
+Interstellar,Sci-Fi
+Inception,Sci-Fi
+Avatar,Sci-Fi
+Avatar The Way of Water,Sci-Fi
+The Martian,Sci-Fi
+Blade Runner 2049,Sci-Fi
+Arrival,Sci-Fi
+Gravity,Sci-Fi
+Oblivion,Sci-Fi
+Dune,Sci-Fi
+Dune Part Two,Sci-Fi
+Ready Player One,Sci-Fi
+Edge of Tomorrow,Sci-Fi
+Elysium,Sci-Fi
+I Robot,Sci-Fi
+Star Wars,Sci-Fi
+Rogue One,Sci-Fi
+The Creator,Sci-Fi
+Passengers,Sci-Fi
+Moon,Sci-Fi
+
+3 Idiots,Comedy
+Jumanji,Comedy
+Home Alone,Comedy
+The Mask,Comedy
+Yes Man,Comedy
+Free Guy,Comedy
+The Hangover,Comedy
+Rush Hour,Comedy
+Central Intelligence,Comedy
+Mr Bean's Holiday,Comedy
+Shrek,Comedy
+Kung Fu Panda,Comedy
+Toy Story,Comedy
+Minions,Comedy
+Despicable Me,Comedy
+Hotel Transylvania,Comedy
+The Croods,Comedy
+Sing,Comedy
+The Boss Baby,Comedy
+Turning Red,Comedy
+
+The Conjuring,Horror
+The Conjuring 2,Horror
+Annabelle,Horror
+Annabelle Creation,Horror
+Annabelle Comes Home,Horror
+The Nun,Horror
+The Nun II,Horror
+Insidious,Horror
+Insidious Chapter 2,Horror
+Smile,Horror
+Smile 2,Horror
+It,Horror
+It Chapter Two,Horror
+The Ring,Horror
+Sinister,Horror
+Lights Out,Horror
+The Exorcist,Horror
+Scream,Horror
+Hereditary,Horror
+A Quiet Place,Horror
+
+The Shawshank Redemption,Drama
+Forrest Gump,Drama
+The Green Mile,Drama
+The Pursuit of Happyness,Drama
+Fight Club,Drama
+Whiplash,Drama
+Parasite,Drama
+Joker,Drama
+The Godfather,Drama
+Good Will Hunting,Drama
+The Pianist,Drama
+The Social Network,Drama
+Cast Away,Drama
+A Beautiful Mind,Drama
+The Terminal,Drama
+12 Years a Slave,Drama
+The Imitation Game,Drama
+Room,Drama
+The King's Speech,Drama
+The Blind Side,Drama
+
+Pirates of the Caribbean,Adventure
+Indiana Jones,Adventure
+Jurassic Park,Adventure
+Jurassic World,Adventure
+King Kong,Adventure
+The Mummy,Adventure
+Uncharted,Adventure
+National Treasure,Adventure
+The Jungle Book,Adventure
+Life of Pi,Adventure
+
+Frozen,Animation
+Frozen II,Animation
+Moana,Animation
+Encanto,Animation
+Coco,Animation
+Finding Nemo,Animation
+Finding Dory,Animation
+Cars,Animation
+Up,Animation
+Wall-E,Animation
+
+Harry Potter and the Sorcerer's Stone,Fantasy
+Harry Potter and the Chamber of Secrets,Fantasy
+Harry Potter and the Prisoner of Azkaban,Fantasy
+Harry Potter and the Goblet of Fire,Fantasy
+Harry Potter and the Order of the Phoenix,Fantasy
+Harry Potter and the Half Blood Prince,Fantasy
+Harry Potter and the Deathly Hallows Part 1,Fantasy
+Harry Potter and the Deathly Hallows Part 2,Fantasy
+The Lord of the Rings The Fellowship of the Ring,Fantasy
+The Hobbit,Fantasy
+
+Gone Girl,Thriller
+Shutter Island,Thriller
+Se7en,Thriller
+Prisoners,Thriller
+The Prestige,Thriller
+The Silence of the Lambs,Thriller
+Zodiac,Thriller
+The Girl with the Dragon Tattoo,Thriller
+Nightcrawler,Thriller
+The Sixth Sense,Thriller
